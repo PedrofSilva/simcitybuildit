@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*
+bg-geral{
+  background: url(img/bg-geralsimcitybuildit.jpg);
+  background-repeat: no-repeat;
+
+  
+}
+*/
+
+.bg-geral{
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0 , 0, 0, 0.3)), 
+    url(img/bg-geralsimcitybuildit.jpg) no-repeat center center / cover;
+}
+
+model-viewer{
+width: 100%;
+height: 400px;
+}
+
